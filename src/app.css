@@ -1,0 +1,24 @@
+h1 {
+    color: rgb(0, 112, 210);
+}
+p {
+    font-family: 'Salesforce Sans', Arial, sans-serif;
+    color: rgb(62, 62, 60);
+}
+.app {
+    background-color: #fafaf9;
+    height: 100vh;
+    overflow: scroll;
+}
+/*4 - Crie os componentes de acordo com o solicitado:
+Componente pai deverá exibir:
+h1 -> Oportunidades
+<chamar o componente filho oportunidade, passando os valores necessários>
+
+
+Componente filho chamado oportunidade.html | js:
+h1 -> Nome da Oportunidade: X
+p-> Nome Conta: X
+p-> Valor: R$ X
+p-> Data Fechamento: X
+*/
